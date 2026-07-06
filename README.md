@@ -77,4 +77,4 @@ your account.
 
 ## License
 
-MIT
+MIT — see [LICENSE](LICENSE).
