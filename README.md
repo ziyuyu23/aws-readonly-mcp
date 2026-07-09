@@ -42,6 +42,9 @@ uv run aws-readonly-mcp
 
 ### Connect it to Claude Desktop
 
+Add this to your Claude Desktop MCP config
+(`~/Library/Application Support/Claude/claude_desktop_config.json` on macOS):
+
 ```json
 {
   "mcpServers": {
