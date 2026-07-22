@@ -27,6 +27,9 @@ defense in depth — the server enforces it in code, IAM enforces it at the boun
 
 ## Quick start
 
+> **Prerequisite:** AWS credentials available via the standard chain (env vars, shared
+> config, or `AWS_PROFILE`). The `aws` CLI is optional — only used for the identity check below.
+
 ```bash
 # 1. Install (using uv — https://docs.astral.sh/uv/)
 uv sync
